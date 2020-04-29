@@ -31,4 +31,8 @@ describe('Keypad', () => {
     expect(wrapper.find('.operators-container').text()).toEqual('+-*/');
   });
 
+  it('renders an instance of the key component', () => {
+    expect(wrapper.find('Key').length).toEqual(1);
+  })
+
 });
