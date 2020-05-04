@@ -2,7 +2,7 @@
 
 ## A project built to practice test-driving a react app.
 
-### Experimented with
+### Experimented with:
 - Employing Test-Driven Development, along with Enzyme and Jest, to structure an application and write tests
 - Using CSS Variables to allow for variable reuse and reassignment for responsive design
 - Writing a reusable React component to render with individual functions and in multiple styles
