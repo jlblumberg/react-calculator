@@ -9,7 +9,7 @@
 - Using React's PropTypes for type-checking throughout the application
 
 ### Usage
-Check out the production version [here](soft-hand.surge.sh).
+Check out the production version [here](https://soft-hand.surge.sh).
 
 ### Contribution
 - Fork, Clone, and `cd` into the repo
