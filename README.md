@@ -8,4 +8,4 @@
 - Writing a reusable React component to render with individual functions and in multiple styles.
 - Using React's PropTypes for type-checking throughout the application.
 
-Check out the production version [here]().
+Check out the production version [here](soft-hand.surge.sh).
